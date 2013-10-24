@@ -18,7 +18,7 @@ public class ParkingTicketsStatsTest {
     // Download the file from the following URL and extract into src/test/resources
     // http://www1.toronto.ca/City_Of_Toronto/Information_&_Technology/Open_Data/Data_Sets/Assets/Files/parking_tickets_data_2012.zip
     private static final String PARKING_TAGS_DATA_2012_CSV_PATH = "/Parking_Tags_Data_2012.csv";
-
+    
     @Test
     public void testSortStreetsByProfitability() throws Exception {
         long startTime = System.currentTimeMillis();
