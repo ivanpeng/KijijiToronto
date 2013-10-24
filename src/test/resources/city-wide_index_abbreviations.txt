@@ -1,0 +1,30 @@
+Street Type Full Name Street Type Full Name 
+Ave Avenue Sq Square 
+Bdge Bridge St Street 
+Blvd Boulevard Ter Terrace 
+Crcl Circle Trl Trail 
+Crct Circuit View View 
+Cres Crescent Walk Walk 
+Crt Court Way Way 
+Cs Close Wds Woods 
+Dr Drive Wlkwy Walkway 
+Gdns Gardens Wood Wood 
+Grn Green 
+Grv Grove 
+Gt Gate 
+Hill Hill 
+Hts Heights 
+Hwy Highway 
+Lane Lane
+Line Line 
+Lwn Lawn
+Mews Mews
+Path Path
+Pk Park 
+Pkwy Parkway 
+Pl Place 
+Ptwy Pathway 
+Quay Quay 
+Ramp Ramp 
+Rd Road 
+Rdwy Roadway
